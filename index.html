@@ -1,3 +1,5 @@
+<!-- Fire up the server: python -m SimpleHTTPServer -->
+
 <!DOCTYPE html>
 <meta charset="utf-8">
 <style>
@@ -36,7 +38,7 @@ var svg = d3.select("svg"),
     margin = 20,
     diameter = +svg.attr("width"),
     g = svg.append("g").attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
-
+console.log(svg)
 var color = d3.scaleLinear()
     .domain([-1, 5])
     .range(["hsl(152,80%,80%)", "hsl(228,30%,40%)"])
