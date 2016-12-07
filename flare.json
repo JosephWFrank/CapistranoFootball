@@ -4,132 +4,132 @@
   {
    "name": "Justin",
    "children": [
-    {"name": "Aaron Rodgers", "size": 10000},
-    {"name": "David Johnson", "size": 500},
-    {"name": "Melvin Gordonson", "size": 1082},
-    {"name": "Jamison Crowder", "size": 1082},
-    {"name": "Rishard Matthews", "size": 1082},
-    {"name": "Dez Bryant", "size": 1082},
-    {"name": "Stephen Gostkowski", "size": 1082},
-    {"name": "Tampa Bay Def.", "size": 1082}
+    {"name": "Aaron Rodgers", "size": 3200},
+    {"name": "David Johnson", "size": 3200},
+    {"name": "Melvin Gordon", "size": 1600},
+    {"name": "Jamison Crowder", "size": 400},
+    {"name": "Rishard Matthews", "size": 200},
+    {"name": "Dez Bryant", "size": 100},
+    {"name": "Stephen Gostkowski", "size": 200},
+    {"name": "Tampa Bay Def.", "size": 100}
    ]
   },
   {
    "name": "Kevin",
    "children": [
-    {"name": "Russell Wilson", "size": 1082},
-    {"name": "Kelvin Benjamin", "size": 1082},
-    {"name": "TY Hilton", "size": 1082},
-    {"name": "Ezekiel Elliot", "size": 1082},
-    {"name": "Latavius Murray", "size": 1082},
-    {"name": "Tyrell Williams", "size": 1082},
-    {"name": "Kenny Britt", "size": 1082},
-    {"name": "Justin Tucker", "size": 1082}
+    {"name": "Russell Wilson", "size": 1600},
+    {"name": "Kelvin Benjamin", "size": 200},
+    {"name": "TY Hilton", "size": 800},
+    {"name": "Ezekiel Elliot", "size": 3200},
+    {"name": "Latavius Murray", "size": 800},
+    {"name": "Tyrell Williams", "size": 400},
+    {"name": "Kenny Britt", "size": 200},
+    {"name": "Justin Tucker", "size": 800}
    ]
   },
   {
    "name": "Danny",
    "children": [
-    {"name": "Andrew Luck", "size": 1082},
-    {"name": "Julio Jones", "size": 1082},
-    {"name": "Mike Evans", "size": 1082},
-    {"name": "Frank Gore", "size": 1082},
-    {"name": "Carlos Hyde", "size": 1082},
-    {"name": "Theo Riddick", "size": 1082},
-    {"name": "Sebastian Janikowski", "size": 1082},
-    {"name": "Denver Def.", "size": 1082}
+    {"name": "Andrew Luck", "size": 3200},
+    {"name": "Julio Jones", "size": 800},
+    {"name": "Mike Evans", "size": 800},
+    {"name": "Frank Gore", "size": 800},
+    {"name": "Carlos Hyde", "size": 400},
+    {"name": "Theo Riddick", "size": 200},
+    {"name": "Sebastian Janikowski", "size": 200},
+    {"name": "Denver Def.", "size": 400}
    ]
   },
     {
    "name": "Billy",
    "children": [
-    {"name": "Marcus Mariota", "size": 1082},
-    {"name": "Jordy Nelson", "size": 1082},
-    {"name": "Antonio Brown", "size": 1082},
-    {"name": "Jay Ajayi", "size": 1082},
-    {"name": "Spencer Ware", "size": 1082},
-    {"name": "Matt Forte", "size": 1082},
-    {"name": "Adam Vinatieri", "size": 1082},
-    {"name": "Kansas City Def.", "size": 1082}
+    {"name": "Marcus Mariota", "size": 3200},
+    {"name": "Jordy Nelson", "size": 800},
+    {"name": "Antonio Brown", "size": 800},
+    {"name": "Jay Ajayi", "size": 800},
+    {"name": "Spencer Ware", "size": 800},
+    {"name": "Matt Forte", "size": 800},
+    {"name": "Adam Vinatieri", "size": 400},
+    {"name": "Kansas City Def.", "size": 400}
    ]
   },
     {
    "name": "Vinnie",
    "children": [
-    {"name": "Drew Brees", "size": 1082},
-    {"name": "Odell Beckham Jr.", "size": 1082},
-    {"name": "Stefon Diggs", "size": 1082},
-    {"name": "DeMarco Murray", "size": 1082},
-    {"name": "LeSean McCoy", "size": 1082},
-    {"name": "Davante Adams", "size": 1082},
-    {"name": "Matt Bryant", "size": 1082},
-    {"name": "San Diego Def.", "size": 1082}
+    {"name": "Drew Brees", "size": 3200},
+    {"name": "Odell Beckham Jr.", "size": 800},
+    {"name": "Stefon Diggs", "size": 100},
+    {"name": "DeMarco Murray", "size": 1600},
+    {"name": "LeSean McCoy", "size": 1600},
+    {"name": "Davante Adams", "size": 400},
+    {"name": "Matt Bryant", "size": 400},
+    {"name": "San Diego Def.", "size": 100}
    ]
   },
     {
    "name": "Jason",
    "children": [
-    {"name": "Matthew Stafford", "size": 1082},
-    {"name": "Michael Thomas", "size": 1082},
-    {"name": "Larry Fitzgerald", "size": 1082},
-    {"name": "Devonta Freeman", "size": 1082},
-    {"name": "Mark Ingram", "size": 1082},
-    {"name": "Demaryius Thomas", "size": 1082},
-    {"name": "Tevin Coleman", "size": 1082},
-    {"name": "Dan Bailey", "size": 1082}
+    {"name": "Matthew Stafford", "size": 1600},
+    {"name": "Michael Thomas", "size": 400},
+    {"name": "Larry Fitzgerald", "size": 400},
+    {"name": "Devonta Freeman", "size": 800},
+    {"name": "Mark Ingram", "size": 800},
+    {"name": "Demaryius Thomas", "size": 200},
+    {"name": "Tevin Coleman", "size": 200},
+    {"name": "Dan Bailey", "size": 200}
    ]
   },
     {
    "name": "Horn",
    "children": [
-    {"name": "Dak Prescott", "size": 1082},
-    {"name": "Amari Cooper", "size": 1082},
-    {"name": "Jordan Howard", "size": 1082},
-    {"name": "LaGarette Blount", "size": 1082},
-    {"name": "Greg Olsen", "size": 1082},
-    {"name": "Michael Crabtree", "size": 1082},
-    {"name": "Jeremy Hill", "size": 1082},
-    {"name": "Minnesota Def.", "size": 1082}
+    {"name": "Dak Prescott", "size": 3200},
+    {"name": "Amari Cooper", "size": 400},
+    {"name": "Jordan Howard", "size": 800},
+    {"name": "LaGarette Blount", "size": 800},
+    {"name": "Greg Olsen", "size": 200},
+    {"name": "Michael Crabtree", "size": 400},
+    {"name": "Jeremy Hill", "size": 400},
+    {"name": "Minnesota Def.", "size": 400}
    ]
   },
     {
    "name": "Dutto",
    "children": [
-    {"name": "Tom Brady", "size": 1082},
-    {"name": "Brandin Cooks", "size": 1082},
-    {"name": "Terelle Pryor", "size": 1082},
-    {"name": "Lamar Miller", "size": 1082},
-    {"name": "Jimmy Graham", "size": 1082},
-    {"name": "A.J. Green", "size": 1082},
-    {"name": "Christine Michael", "size": 1082},
-    {"name": "Jonathan Stewart", "size": 1082}
+    {"name": "Tom Brady", "size": 1600},
+    {"name": "Brandin Cooks", "size": 400},
+    {"name": "Terelle Pryor", "size": 400},
+    {"name": "Lamar Miller", "size": 400},
+    {"name": "Jimmy Graham", "size": 200},
+    {"name": "A.J. Green", "size": 400},
+    {"name": "Christine Michael", "size": 100},
+    {"name": "Jonathan Stewart", "size": 100}
    ]
   },
     {
    "name": "Dave",
    "children": [
-    {"name": "Jameis Winston", "size": 1082},
-    {"name": "Mike Wallace", "size": 1082},
-    {"name": "Todd Gurley", "size": 1082},
-    {"name": "Emmanuel Sanders", "size": 1082},
-    {"name": "Brandon Marshall", "size": 1082},
-    {"name": "Josh Lambo", "size": 1082},
-    {"name": "Ryan Mathews", "size": 1082},
-    {"name": "Arizona Def.", "size": 1082}
+    {"name": "Jameis Winston", "size": 1600},
+    {"name": "Mike Wallace", "size": 400},
+    {"name": "Todd Gurley", "size": 400},
+    {"name": "Emmanuel Sanders", "size": 200},
+    {"name": "Brandon Marshall", "size": 100},
+    {"name": "Josh Lambo", "size": 200},
+    {"name": "Ryan Mathews", "size": 100},
+    {"name": "Arizona Def.", "size": 100}
    ]
   },
 
   {
    "name": "Joey",
    "children": [
-    {"name": "Ben Roethlisberger", "size": 1082},
-    {"name": "Allen Robinson", "size": 1082},
-    {"name": "LeVeon Bell", "size": 1082},
-    {"name": "Doug Baldwin", "size": 1082},
-    {"name": "Terrence West", "size": 1082},
-    {"name": "Cairo Santos", "size": 1082},
-    {"name": "Baltimore Def.", "size": 1082},
-    {"name": "Julian Edelman", "size": 1082}
+    {"name": "Ben Roethlisberger", "size": 1600},
+    {"name": "Allen Robinson", "size": 200},
+    {"name": "LeVeon Bell", "size": 800},
+    {"name": "Doug Baldwin", "size": 400},
+    {"name": "Terrence West", "size": 200},
+    {"name": "Cairo Santos", "size": 200},
+    {"name": "Baltimore Def.", "size": 400},
+    {"name": "Julian Edelman", "size": 100}
    ]
   }
  ]
