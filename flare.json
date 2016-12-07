@@ -3,6 +3,7 @@
  "children": [
   {
    "name": "Justin",
+   "position": "owner",
    "children": [
     {"name": "Aaron Rodgers", "size": 3200, "rating": "tierone"},
     {"name": "David Johnson", "size": 3200, "rating": "tierone"},
