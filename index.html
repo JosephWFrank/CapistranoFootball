@@ -12,15 +12,39 @@
   stroke: #000;
   stroke-width: 1.5px;
 }
-
-.node--leaf {
+.node--leaf 3200 {
   fill: white;
+}
+.tierone {
+
+  fill: #81C784;
+}
+.tiertwo {
+
+  fill: #7986CB;
+}
+.tierthree {
+
+  fill: #9575CD;
+}
+.tierfour {
+
+  fill: #FFD54F;
+}
+.tierfive {
+
+  fill: #FF8A65;
+}
+.tiersix {
+
+  fill: #E57373;
 }
 
 .label {
-  font: 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 15px "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-anchor: middle;
   text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+  color: white;
 }
 
 .label,
@@ -59,14 +83,16 @@ d3.json("flare.json", function(error, root) {
   var focus = root,
       nodes = pack(root).descendants(),
       view;
-
+      var counter = 0;
   var circle = g.selectAll("circle")
     .data(nodes)
     .enter().append("circle")
-      .attr("class", function(d) { return d.parent ? d.children ? "node" : "node node--leaf" : "node node--root"; })
+      .attr("class", function(d){ console.log(d.data.rating)})
+
+      .attr("class", function(d) { return d.parent ? d.children ? "node": "node node--leaf" +" "+ d.data.rating : "node node--root"; })
       .style("fill", function(d) { return d.children ? color(d.depth) : null; })
       .on("click", function(d) { if (focus !== d) zoom(d), d3.event.stopPropagation(); });
-
+      console.log(g)
   var text = g.selectAll("text")
     .data(nodes)
     .enter().append("text")
