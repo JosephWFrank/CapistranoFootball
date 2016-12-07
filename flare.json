@@ -4,9 +4,9 @@
   {
    "name": "Justin",
    "children": [
-    {"name": "Aaron Rodgers", "size": 1082},
-    {"name": "David Johnson", "size": 1082},
-    {"name": "Melvin Gordon", "size": 1082},
+    {"name": "Aaron Rodgers", "size": 10000},
+    {"name": "David Johnson", "size": 500},
+    {"name": "Melvin Gordonson", "size": 1082},
     {"name": "Jamison Crowder", "size": 1082},
     {"name": "Rishard Matthews", "size": 1082},
     {"name": "Dez Bryant", "size": 1082},
